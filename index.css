@@ -1,0 +1,156 @@
+.google_image {
+    position: fixed;
+    top: 0px; 
+    left: 10px;
+    padding: 50px;
+
+}
+
+.searchbar {
+    position: fixed;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.searchbar-results {
+    background: #fff;
+    width: 600px;
+    height: 50px;
+    border: 0.5px solid rgb(216, 216, 216);
+    border-radius: 30px;
+}
+
+.searchbar-results:hover {
+    background: #fff;
+    box-shadow: 1px 1px 5px 1px rgb(204, 204, 204);
+}
+
+.sign_in {
+position: fixed;
+right: 20px;
+top: 42px;
+}
+
+.sign-in-button {
+    background: #1a73e8;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px 25px 12px 25px;
+    border-radius: 4px;
+    
+}
+
+.navbar {
+    position: relative;
+    display: inline-block;
+    left: 200px;
+    width: 100%;
+    top: 120px;
+    float: left;
+   
+  
+
+
+}
+
+.navbar-right {
+    position: absolute;
+    display: inline-block;
+    left: 500px;
+    width: 100%;
+    float: right;
+    
+}
+
+a {
+    padding: 8px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: rgb(114, 114, 114);
+}
+
+
+#border-line {
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    color: #fff;
+    border-bottom: 1px solid rgb(231, 231, 231);
+    border-width: 100%;
+    overflow: visible;
+    padding-bottom: 5px;
+}
+
+.results {
+    display: block;
+    position: absolute;
+    top: 155px;
+    left: 210px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.results-1 {
+    margin-top: 30px;
+    line-height: 20px;
+}
+
+.results-2 {
+    margin-top: 30px;
+    line-height: 20px;
+}
+
+.results-3 {
+    margin-top: 30px;
+    line-height: 20px;
+}
+
+h2 {
+    color: #1a0dab;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20%;
+}
+
+
+.videos {
+    position: absolute;
+    bottom: -160px;
+    left: 210px;
+
+}
+
+.video-1 {
+    border: 1px solid black;
+    padding-bottom: 100px;
+    border-radius: 12px;
+    overflow: hidden;
+
+    
+}
+
+.video-2 {
+    position: absolute;
+    left: 220px;
+    bottom: 0px;
+    border: 1px solid black;
+    padding-bottom: 100px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.video-3 {
+    position: absolute;
+    left: 440px;
+    bottom: 0px;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding-bottom: 100px;
+    overflow: hidden;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
